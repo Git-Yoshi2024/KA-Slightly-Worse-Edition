@@ -5,7 +5,7 @@ Mega Man Maker stores music in its Music folder. All music is stored as .nsf fil
 
 The NSF format is known as the NES Sound Format, the format used for music used for the Nintendo Entertainment System.  Chiptune Player can also play audio files from multiple other old systems. This means that by renaming a file from another supported format to use the nsf extension despite not actually being an nsf file, Chiptune Player/Mega Man Maker will play the file.
 
-This folder contains multiple nsf files, already renamed and placed into the correct folders. To install the music mod, move this folder, titled "Music" into the Mega Man Maker folder and replace all files; assuming you did not already extract the entire zip for SWE into the Mega Man Maker folder, which would achieve the same thing.
+This folder contains multiple nsf files, already renamed and placed into the correct folders. To install the music mod, move this folder, titled "Music" into the Mega Man Maker folder and accept the prompt to replace all files.
 
 You can uninstall the music mod using the same method and the "Music" folder in the "Original Music Backup" folder. You can also uninstall the music mod by updating or reinstalling Mega Man Maker.
 
