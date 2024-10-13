@@ -1,0 +1,38 @@
+Based on TheCreativeEye in KA. This is the worst level in SWE. I had no ideas and got so desperate I turned it into a water level despite TheCreativeEye not being one. At least there was that color coded hint challenge.
+
+Midbosses are weak to Pharoah Shot. Spring Man is weak to Ice Slasher. Defeating TheCreativeEye unlocks Crystal Eye/Creative Eye.
+
+Level 3 contains the HARD letters, which are rooms containing letters protected by secrets and challenges. I recommend finding all HARD letters before playing the "level HARD"
+
+--Music List--
+
+Music Name: Enter Your Password
+Source: Mega Man 3
+Composer: Yasuaki Fujita
+Filename: CrystalGate.nsf
+Replaces: Crystal Gate theme
+Used in SWE: Password room
+
+Music Name: A Tougher Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM5.nsf
+Replaces: Mega Man 5 Robot Master theme
+Used in SWE: Midbosses
+
+Music Name: A Tough Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM9.nsf
+Replaces: Mega Man 9 Robot Master theme
+Used in SWE: Bosses
+
+Music Name: Magicant
+Source: Mother
+Composer: Hirokazu Tanaka
+Filename: GeminiMan.nsf
+Replaces: Gemini Man theme
+Used in SWE: Crystal Eyes
+
+--A--
+The path to the A is in plain sight. Just use a Charge Kick jump to get to the ladder.

@@ -1,0 +1,24 @@
+Similar to Level 4, Level 5 is a combination of KA's Trashman and Scloof Fortress 2 stages. KA was made before Yellow Devil was added to Mega Man Maker, so it made its own Yellow Devil boss. After using Yellow Devil myself, I wonder if I should have done that too. This really is a Slightly Worse Edition.
+
+--Music List--
+
+Music Name: Enter Your Password
+Source: Mega Man 3
+Composer: Yasuaki Fujita
+Filename: CrystalGate.nsf
+Replaces: Crystal Gate theme
+Used in SWE: Password room
+
+Music Name: Factory
+Source: Mother
+Composer: Hirokazu Tanaka
+Filename: DustMan.nsf
+Replaces: Dust Man theme
+Used in SWE: Trashed Fortress Stage
+
+Music Name: Tank
+Source: Mother
+Composer: Hirokazu Tanaka
+Filename: MM1.nsf
+Replaces: Mega Man 1 Robot Master theme
+Used in SWE: Fortress Bosses

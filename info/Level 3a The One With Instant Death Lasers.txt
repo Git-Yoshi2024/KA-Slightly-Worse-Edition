@@ -1,0 +1,40 @@
+This level is based on Mighty from KA. This isn't the first KA Mighty stage I have created. During the KA Construction challenge in 2021, I created the level Mighty Invasion. It did not age particularly well. Skull Man's AI just breaks now, turning a what was a very difficult boss into a joke. Not much was taken from that level in this one, although the Charge Kick path at the start was a great inspiration for the HARD letters. If you want to play it, you can find it on Mega Man Maker online, ID: 504745
+
+Bosses are weak to Black Hole Bomb. Defeating Mighty unlocks Pharoah Shot/Mighty Shot
+
+Level 3 contains the HARD letters, which are rooms containing letters protected by secrets and challenges. I recommend finding all HARD letters before playing the "level HARD"
+
+--Music List--
+
+Music Name: Enter Your Password
+Source: Mega Man 3
+Composer: Yasuaki Fujita
+Filename: CrystalGate.nsf
+Replaces: Crystal Gate theme
+Used in SWE: Password room
+
+Music Name: A Tougher Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM5.nsf
+Replaces: Mega Man 5 Robot Master theme
+Used in SWE: Midbosses
+
+Music Name: A Tough Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM9.nsf
+Replaces: Mega Man 9 Robot Master theme
+Used in SWE: Bosses
+
+Music Name: Magma Dragooon
+Source: Mega Man X4
+Composer: Toshihiko Horiyama
+Demake: 브금맨 JX https://www.youtube.com/watch?v=DQ8WG0X_za4
+Filename: JewelMan.nsf
+Replaces: Jewel Man theme
+Used in SWE: The One With Instant Death Lasers
+
+--H--
+You can find the H in this level very quickly. Use Charge Kick to go behind the first Red Force Beams you see.
+

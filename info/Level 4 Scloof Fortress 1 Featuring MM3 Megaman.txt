@@ -1,0 +1,27 @@
+I decided to combine KA's Gravitrax and Scloof Fortress 1 stages. The name is a reference to a level by KFCMan: YDC - Scloof Fortress 2 Electric Boogaloo Featuring MM1 Megaman (ID: 419187)
+
+Defeating UARM does not unlock Mega Ball.
+
+--Music List--
+
+Music Name: Enter Your Password
+Source: Mega Man 3
+Composer: Yasuaki Fujita
+Filename: CrystalGate.nsf
+Replaces: Crystal Gate theme
+Used in SWE: Password room
+
+Music Name: Conflict - Escape Stage
+Source: Mega Man X7
+Composer: Shinya Okada
+Demake: 브금맨 JX https://www.youtube.com/watch?v=2FHDsTE-DrY
+Filename: MM3Wily2.nsf
+Replaces: Mega Man 3 Wily Stage 3/4 theme
+Used in SWE: Scloof Fortress 1 Featuring MM3 Megaman
+
+Music Name: Tank
+Source: Mother
+Composer: Hirokazu Tanaka
+Filename: MM1.nsf
+Replaces: Mega Man 1 Robot Master theme
+Used in SWE: Fortress Bosses

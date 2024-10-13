@@ -1,0 +1,17 @@
+I always felt like the best possible way to end a Mega Man game is to make the player use every weapon. The final boss is a good way to do that, I like the Make a Good 24 Hour Mega Man Level final boss because it does that. Of course I would do that myself here. The issue is that the only character to logically do that with in KA is Bean Man, who is heavily associated with Wood Man, a boss I do not like as much as most of the bosses in Mega Man Maker. I do not like the falling leaves attack. I am rather surprised this turned out as well as it did.
+
+--Music List--
+
+Music Name: Megalomania
+Source: Live a Live (1994)
+Composer: Yoko Shimomura
+Filename: MMPU.nsf
+Replaces: Mega Man Powered Up Robot Master theme
+Used in SWE: Bean Man
+
+Music Name: Pure Odio
+Source: Live a Live (1994)
+Composer: Yoko Shimomura
+Filename: MM8WoodMan.nsf
+Replaces: Mega Man 8 Wood Man theme
+Used in SWE: Bean Man Final Phase

@@ -1,0 +1,17 @@
+This level is obviously the first one you would play, so it was designed to be an introduction to what was to be expected from SWE. Most challenges are designed around dashing and the Mega Buster. The Tamas represent what bosses look like when playing as KFCMan. The second section was added to give the level more content and difficulty. Most levels will use the same assets as KFCMan's Adventure, but the challenges will often be very different. Note that KFCMan's limited weapon energy means much of the game is balanced around a pacifist playthrough.
+
+--Music List--
+
+Music Name: Enter Your Password
+Source: Mega Man 3
+Composer: Yasuaki Fujita
+Filename: CrystalGate.nsf
+Replaces: Crystal Gate theme
+Used in SWE: Password room
+
+Music Name: The Twin Dragons
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: IntroStage.nsf
+Replaces: Mega Man 8 Intro Stage theme
+Used in SWE: Intro Stage

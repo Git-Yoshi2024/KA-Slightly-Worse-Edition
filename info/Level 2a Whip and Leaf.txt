@@ -1,0 +1,33 @@
+Clearly based on the Snivymaster1337 stage in KA. The first 2 Scloof RM stages are designed to be easier than the next 4. Part of this is done by only including 1 boss. Given this character's affinity for drones, I decided a battle wasn't worth it. The midboss would be the boss for this level, and you would "whip and leaf" at the end.
+
+Completing this stage unlocks Thunder Claw/Vine Whip.
+
+--Music List--
+
+Music Name: Enter Your Password
+Source: Mega Man 3
+Composer: Yasuaki Fujita
+Filename: CrystalGate.nsf
+Replaces: Crystal Gate theme
+Used in SWE: Password room
+
+Music Name: Esperanto
+Source: Mega Man Zero 4
+Composer: Luna Umegaki
+Demake: 브금맨 JX https://www.youtube.com/watch?v=sMGyy1uuhxI
+Filename: MagmaMan.nsf
+Used in SWE: Whip and Leaf
+
+Music Name: A Tougher Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM5.nsf
+Replaces: Mega Man 5 Robot Master theme
+Used in SWE: Midbosses
+
+Music Name: A Tough Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM9.nsf
+Replaces: Mega Man 9 Robot Master theme
+Used in SWE: Bosses

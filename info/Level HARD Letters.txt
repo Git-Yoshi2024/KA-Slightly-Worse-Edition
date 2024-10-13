@@ -1,0 +1,88 @@
+It is recommended to not play this level unless:
+
+-You have found the H letter in The One With Instant Death Lasers.
+-You have found the A letter in Slow Burn.
+-You have found the R letter in Crystal Eyes.
+-You have found the D letter in Bent Out of Shapes
+Their locations are at the bottom of their documents if you are having trouble.
+-You have defeated Bean Man.
+-You have time.
+-You have skill.
+
+
+Thanks to KFCMan for telling me how to make the water in one of the rooms look better.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--Music List--
+
+Music Name - Bowser's Castle
+Source: YUMP2 https://www.smwcentral.net/?p=section&a=details&id=24538
+Composer: sincx
+Filename: Wily1Inside.nsf
+Replaces: Mega Man 10 Wily Stage 1 Inside theme
+Used in SWE: Phinal Level
+
+Music Name: Battle 2
+Source: Chrono Trigger
+Composer: Yasunori Mitsuda
+Filename: MM4Wily.nsf
+Replaces: Mega Man 4 Wily Boss theme
+Used in SWE: Phinal Level Bosses
+
+Music Name: Knock You Down!
+Source: Live a Live (1994)
+Composer: Yoko Shimomura
+Filename: GBIVBalladeBoss.nsf
+Replaces: Ballade Boss theme
+Used in SWE: Phun battle

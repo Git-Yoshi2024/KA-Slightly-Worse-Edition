@@ -1,0 +1,38 @@
+Based on the Poisonous Gas stage in KA. If you see Moving Spike it's a sign I was having difficulty with the level design.
+
+Level 3 contains the HARD letters, which are rooms containing letters protected by secrets and challenges. I recommend finding all HARD letters before playing the "level HARD"
+
+Plant Man is weak to Ice Slasher. Tornado Man is weak to Crystal Eye. Defeating Poisonous Gas unlocks Black Hole Bomb/Poison Cloud.
+
+--Music List--
+
+Music Name: Enter Your Password
+Source: Mega Man 3
+Composer: Yasuaki Fujita
+Filename: CrystalGate.nsf
+Replaces: Crystal Gate theme
+Used in SWE: Password room
+
+Music Name: A Tougher Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM5.nsf
+Replaces: Mega Man 5 Robot Master theme
+Used in SWE: Midbosses
+
+Music Name: A Tough Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM9.nsf
+Replaces: Mega Man 9 Robot Master theme
+Used in SWE: Bosses
+
+Music Name: Airplane
+Source: Mother
+Composer: Hirokazu Tanaka
+Filename: ShadowMan.nsf
+Replaces: Shadow Man theme
+Used in SWE: Slow Burn
+
+--A--
+You can find the letter A before the Boss Door at the end of the level. Pay attention to the Quicksand and look for a suspicious gap in the rock.

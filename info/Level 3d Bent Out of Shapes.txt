@@ -1,0 +1,37 @@
+Based on Ben Plus from KA. This level will probably be the easiest or hardest level 3 to you. In Slightly Worse Edition, you do not fight DeDeDe.
+
+Bubble Man is weak to Thunder Claw. Cold Man is weak to Pharoah Shot. Completing this stage will unlock Ice Slasher/Freeze Cube.
+
+--Music List--
+
+Music Name: Enter Your Password
+Source: Mega Man 3
+Composer: Yasuaki Fujita
+Filename: CrystalGate.nsf
+Replaces: Crystal Gate theme
+Used in SWE: Password room
+
+Music Name: A Tougher Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM5.nsf
+Replaces: Mega Man 5 Robot Master theme
+Used in SWE: Midbosses
+
+Music Name: A Tough Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM9.nsf
+Replaces: Mega Man 9 Robot Master theme
+Used in SWE: Bosses
+
+Music Name: Gravity Beetle
+Source: Mega Man X3
+Composer: Kinuyo Yamashita
+Demake: 브금맨 JX https://www.youtube.com/watch?v=zMUtKo9SlUM
+Filename: Needleman.nsf
+Replaces: Needle Man theme
+Used in SWE: Bent Out of Shapes
+
+--D--
+A Charge Kick jump right at the end should do it.

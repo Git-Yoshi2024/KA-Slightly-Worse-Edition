@@ -1,0 +1,1 @@
+Send these mmlv files to Mega Man Maker's levels folder. This will make them accessible in the "My Levels" menu when playing. You can find the levels folder with the shortcut to levels folder found in the Mega Man Maker folder.

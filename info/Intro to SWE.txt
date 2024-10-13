@@ -1,0 +1,26 @@
+Slightly Worse Edition is a remake of Kun fu Cuts Man's KFCMan's Adventure by Yoshi2024. It has no association with anyone other than Yoshi2024 and you can tell because it is indeed a Slightly Worse Edition. It contains multiple levels, a music mod, and these documents to help you. You can read the documents before or after completing levels, I decided not to make a story at all.
+
+Notable features of SWE:
+
+- New level design
+- Weapon rebalancing
+- supersmashgaming playable (don't question it)
+- New progression structure
+- HARD letters in Level 3, and a level associated with them.
+- Moving Spikes
+- Double Jump is disabled, contrary to what the game says.
+
+Advice:
+
+-Neither character is always advantageous, however you can usually change characters at checkpoints. This will probably be very useful.
+-Levels are designed so KFCMan can avoid wasting weapon energy.
+-Most rooms are designed so they can be easily reset. This is very useful for avoiding damage.
+-Most bosses take 2 damage from Rolling Cutter, although it is harder to use than the Mega Buster.
+-Pause the game to despawn your weapons if the projectile limit is a concern.
+-Remember that Charge Kick is a really powerful utility.
+-Thunder Claw is an amazing attack, not just a way to use poles.
+-Most bosses are immune to Black Hole Bomb.
+-Pharoah Shot does not consume energy if not fired.
+-KFCMan can get a long jump with very little room by performing a dash jump and then immediately turning.
+-Always be ready to act.
+-SWE expects that you already know how it works.

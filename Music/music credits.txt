@@ -1,0 +1,141 @@
+--How Modification of Mega Man Maker Music works--
+
+Mega Man Maker stores music in its Music folder. All music is stored as .nsf files. Mega Man Maker plays nsf files using the Gamemaker Studio extension Chiptune Player. When Mega Man Maker needs to play music, it directs Chiptune Player to play the correct nsf file, identified by its name and position in the files. By replacing the original nsf file with a different nsf file with the same name, Chiptune Player/Mega Man Maker will play the new nsf file in its place.
+
+
+The NSF format is known as the NES Sound Format, the format used for music used for the Nintendo Entertainment System.  Chiptune Player can also play audio files from multiple other old systems. This means that by renaming a file from another supported format to use the nsf extension despite not actually being an nsf file, Chiptune Player/Mega Man Maker will play the file.
+
+This folder contains multiple nsf files, already renamed and placed into the correct folders. To install the music mod, move this folder, titled "Music" into the Mega Man Maker folder and replace all files; assuming you did not already extract the entire zip for SWE into the Mega Man Maker folder, which would achieve the same thing.
+
+You can uninstall the music mod using the same method and the "Music" folder in the "Original Music Backup" folder. You can also uninstall the music mod by updating or reinstalling Mega Man Maker.
+
+--Music List--
+
+Music Name: Enter Your Password
+Source: Mega Man 3
+Composer: Yasuaki Fujita
+Filename: CrystalGate.nsf
+Replaces: Crystal Gate theme
+Used in SWE: Password room
+
+Music Name: The Twin Dragons
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: IntroStage.nsf
+Replaces: Mega Man 8 Intro Stage theme
+Used in SWE: Intro Stage
+
+Music Name: Esperanto
+Source: Mega Man Zero 4
+Composer: Luna Umegaki
+Demake: 브금맨 JX https://www.youtube.com/watch?v=sMGyy1uuhxI
+Filename: MagmaMan.nsf
+Used in SWE: Whip and Leaf
+
+Music Name: A Tougher Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM5.nsf
+Replaces: Mega Man 5 Robot Master theme
+Used in SWE: Midbosses
+
+Music Name: A Tough Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM9.nsf
+Replaces: Mega Man 9 Robot Master theme
+Used in SWE: Bosses
+
+Music Name: Golden Hammer
+Source: Wrecking Crew
+Composer: Hirokazu Tanaka
+Filename: SnakeMan.nsf
+Replaces: Snake Man theme
+Used in SWE: Get Lost
+
+Music Name: Magma Dragooon
+Source: Mega Man X4
+Composer: Toshihiko Horiyama
+Demake: 브금맨 JX https://www.youtube.com/watch?v=DQ8WG0X_za4
+Filename: JewelMan.nsf
+Replaces: Jewel Man theme
+Used in SWE: The One With Instant Death Lasers
+
+Music Name: Airplane
+Source: Mother
+Composer: Hirokazu Tanaka
+Filename: ShadowMan.nsf
+Replaces: Shadow Man theme
+Used in SWE: Slow Burn
+
+Music Name: Magicant
+Source: Mother
+Composer: Hirokazu Tanaka
+Filename: GeminiMan.nsf
+Replaces: Gemini Man theme
+Used in SWE: Crystal Eyes
+
+Music Name: Gravity Beetle
+Source: Mega Man X3
+Composer: Kinuyo Yamashita
+Demake: 브금맨 JX https://www.youtube.com/watch?v=zMUtKo9SlUM
+Filename: Needleman.nsf
+Replaces: Needle Man theme
+Used in SWE: Bent Out of Shapes
+
+Music Name: Conflict - Escape Stage
+Source: Mega Man X7
+Composer: Shinya Okada
+Demake: 브금맨 JX https://www.youtube.com/watch?v=2FHDsTE-DrY
+Filename: MM3Wily2.nsf
+Replaces: Mega Man 3 Wily Stage 3/4 theme
+Used in SWE: Scloof Fortress 1 Featuring MM3 Megaman
+
+Music Name: Factory
+Source: Mother
+Composer: Hirokazu Tanaka
+Filename: DustMan.nsf
+Replaces: Dust Man theme
+Used in SWE: Trashed Fortress Stage
+
+Music Name: Tank
+Source: Mother
+Composer: Hirokazu Tanaka
+Filename: MM1.nsf
+Replaces: Mega Man 1 Robot Master theme
+Used in SWE: Fortress Bosses
+
+Music Name: Megalomania
+Source: Live a Live (1994)
+Composer: Yoko Shimomura
+Filename: MMPU.nsf
+Replaces: Mega Man Powered Up Robot Master theme
+Used in SWE: Bean Man
+
+Music Name: Pure Odio
+Source: Live a Live (1994)
+Composer: Yoko Shimomura
+Filename: MM8WoodMan.nsf
+Replaces: Mega Man 8 Wood Man theme
+Used in SWE: Bean Man Final Phase
+
+Music Name - Bowser's Castle
+Source: YUMP2 https://www.smwcentral.net/?p=section&a=details&id=24538
+Composer: sincx
+Filename: Wily1Inside.nsf
+Replaces: Mega Man 10 Wily Stage 1 Inside theme
+Used in SWE: Phinal Level
+
+Music Name: Battle 2
+Source: Chrono Trigger
+Composer: Yasunori Mitsuda
+Filename: MM4Wily.nsf
+Replaces: Mega Man 4 Wily Boss theme
+Used in SWE: Phinal Level Bosses
+
+Music Name: Knock You Down!
+Source: Live a Live (1994)
+Composer: Yoko Shimomura
+Filename: GBIVBalladeBoss.nsf
+Replaces: Ballade Boss theme
+Used in SWE: Phun battle

@@ -1,0 +1,28 @@
+Based on the Minotaurr stage from KA. The level has good concepts that are more difficult to design than expected. Did you notice the 4 arrows before the maze that gave the answer?
+
+The midboss was cut as part of the plan to reduce level 2 difficulty. Many bosses in KA included another boss above the arena. Most of these have been replaced with something else in SWE.
+
+Completing this stage unlocks Charge Kick/Mino Charge. Given how important Charge Kick is, it was decided to make it one of the first two weapons unlocked. Thunder Claw is also important, but not as much.
+
+--Music List--
+
+Music Name: Enter Your Password
+Source: Mega Man 3
+Composer: Yasuaki Fujita
+Filename: CrystalGate.nsf
+Replaces: Crystal Gate theme
+Used in SWE: Password room
+
+Music Name: A Tough Fight
+Source: River City Ransom
+Composer: Kazuo Sawa
+Filename: MM9.nsf
+Replaces: Mega Man 9 Robot Master theme
+Used in SWE: Bosses
+
+Music Name: Golden Hammer
+Source: Wrecking Crew
+Composer: Hirokazu Tanaka
+Filename: SnakeMan.nsf
+Replaces: Snake Man theme
+Used in SWE: Get Lost
