@@ -34,5 +34,5 @@ Filename: GeminiMan.nsf
 Replaces: Gemini Man theme
 Used in SWE: Crystal Eyes
 
---A--
-The path to the A is in plain sight. Just use a Charge Kick jump to get to the ladder.
+--R--
+The path to the R is in plain sight. Just use a Charge Kick jump to get to the ladder.
