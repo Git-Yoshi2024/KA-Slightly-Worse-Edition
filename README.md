@@ -1,4 +1,4 @@
-Slightly Worse edition is a redesigned version of Kun fu Cuts Man's KFCMan's Adventure. (2019) It contains new level design, weapon rebalances, a new playable character, modified progression, a music mod, and other differences, making it significantly different from the source material.
+Slightly Worse Edition is a redesigned version of Kun fu Cuts Man's KFCMan's Adventure. (2019) It contains new level design, weapon rebalances, a new playable character, modified progression, a music mod, and other differences, making it significantly different from the source material.
 
 You can play SWE by downloading the latest release and following the instructions to install the files in the correct place. 
 
