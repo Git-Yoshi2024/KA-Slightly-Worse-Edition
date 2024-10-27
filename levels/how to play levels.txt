@@ -1,1 +1,3 @@
 Send these mmlv files to Mega Man Maker's levels folder. This will make them accessible in the "My Levels" menu when playing. You can find the levels folder with the shortcut to levels folder found in the Mega Man Maker folder.
+
+You can also find them on Mega Man Maker Online. Their IDs are at https://megamaker.webmeka.io/user-profileV2.php?uid=559204
