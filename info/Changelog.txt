@@ -1,4 +1,4 @@
 --1.0.1--
 
--Scloof Fortress 1 Featuring MM3 Megaman's boss corridor's weapon switch works now.
+-Scloof Fortress 1 Featuring MM3 Megaman's boss corridor's character swap room works now.
 -All levels are uploaded to Mega Man Maker Online. You can view their IDs at https://megamaker.webmeka.io/user-profileV2.php?uid=559204
